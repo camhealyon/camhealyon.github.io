@@ -1,1 +1,1 @@
-[Try This One](main.punderingtothemasses.org "My Thing")
+[Try This One](main.punderingtothemasses.org)
