@@ -1,6 +1,1 @@
-[Try This One](main.punderingtothemasses.org)
- 
-<"main.punderingtothemasses.org">
-(main.punderingtothemasses.org "mer")
-main.punderingtothemasses.org - automatic
-[webbles](main.punderingtothemasses.org)
+Github doesn't handle external links well. Just go to this website. You're welcome. main.punderingtothemasses.org 
