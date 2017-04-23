@@ -1,1 +1,8 @@
-Github doesn't handle external links well. Just go to this website. You're welcome. main.punderingtothemasses.org 
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0; URL='main.punderingtothemasses.org'" />
+</head>
+<body>
+</body>
+</html>
