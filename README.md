@@ -1,8 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="refresh" content="0; URL='https://main.punderingtothemasses.org'" />
-</head>
-<body>
-</body>
-</html>
+Copy/paste the following link into your browser: main.punderingtothemasses.org
