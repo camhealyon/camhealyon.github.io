@@ -30,17 +30,17 @@ Left2Right
 
 
 	<div> 
-		<div width="49%" height="100%">
+		<div width="100%" height="100%">
  
-			<iframe width="49%" name="mainbody" src="https://www.foxnews.com/" height="800px" align="right">
+			<iframe width="33%" name="mainbody" src="https://www.foxnews.com/" height="800px" align="right">
 			</iframe>
  
-		</div>
+		
+			<iframe width="33%" name="centerbody" src="https://www.ap.org/en-us/" height="800px" align="center">
+			</iframe>
  
-
-		<div  width="49%" height="100%">
- 
-			<iframe width="49%" name="otherbody" src="http://occupydemocrats.com/" height="800px" align="left">
+		
+			<iframe width="33%" name="otherbody" src="http://occupydemocrats.com/" height="800px" align="left">
 			</iframe>
  
 		</div>
