@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  
+
+<title>
+Left2Right
+</title>
+
+
+</head>
+
+
+<body bgcolor="#C0C0C0">
+
+
+	<center>
+  
+
+		<h1> 
+		Left 2 Right  
+		</h1> 
+
+	</center>
+
+
+
+	<div> 
+		<div width="49%" height="100%">
+ 
+			<iframe width="49%" name="mainbody" src="https://www.foxnews.com/" height="800px" align="right">
+			</iframe>
+ 
+		</div>
+ 
+
+		<div  width="49%" height="100%">
+ 
+			<iframe width="49%" name="otherbody" src="http://occupydemocrats.com/" height="800px" align="left">
+			</iframe>
+ 
+		</div>
+
+	</div>
+
+
+</body>
+
+
+</html>
